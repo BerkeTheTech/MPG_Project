@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MPG_Project</string>
+    <string name="etkinlikler">Etkinlikler</string>
+    <string name="etkinlik_kaydet">Etkinliği Kaydet</string>
+
+    <string name="etkinlik_adı">Etkinlik Adı</string>
+    <string name="etkinlik_detayı">Etkinlik Detayı</string>
+
+</resources>
